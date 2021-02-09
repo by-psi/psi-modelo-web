@@ -10,13 +10,11 @@ O link para download via GitHub é: https://github.com/ezequiasmartins-bhz/model
 Para melhor compreensão e aprendizado com este material, recomendo os cursos para Desenvolvimento Web c/ Delphi e MySQL do Hugo Vasconcelos, pela plataforma 
 de cursos online da Udemy:
 
-1. Módulo I (básico inicial):
+1. Módulo I (básico inicial):<br>
 https://www.udemy.com/course/desenvolvimento-web-com-delphi-10/
-
-2. Módulo II (avançado):
+2. Módulo II (avançado):<br>
 https://www.udemy.com/course/sistemas-web-com-delphi-e-mysql/
-
-3. Controle Financeiro (modelo completo)
+3. Controle Financeiro (modelo completo):<br>
 https://www.udemy.com/course/controle-financeiro-web-delphi-10-e-mysql/
 
 Grato e atenciosamente,

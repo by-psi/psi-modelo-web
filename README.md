@@ -1,4 +1,3 @@
-<img src="imagens/psi-software.png" width="100"><br>
 ## PSI-MODELO WEB
 
 <table>

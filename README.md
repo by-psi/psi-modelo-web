@@ -1,12 +1,30 @@
-## Desenvolvimento Web c/ Delphi e MySQL
-Olá! Estou disponilizando gratuitamente para download este modelo que fiz escrito e compilado em Delphi 10.3 Rio (Community Edition) c/ MySQL+Intraweb 15+FastReport 6.0 VCL, Bootstrap 4.5 com templates em HTML5 e CSS3 + Javascript, modelo "Dashboard" (free).
+<img src="psi-software.png" width="100"><br>
+## PSI-MODELO WEB
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="Imagens/t1.png" class="responsive"></td>
+      <td><img src="Imagens/t3.png" class="responsive"></td>
+      <td><img src="Imagens/t5.png" class="responsive"></td>
+    </tr>
+    <tr>
+      <td><img src="Imagens/t6.png" class="responsive"></td>
+      <td><img src="Imagens/t7.png" class="responsive"></td>
+      <td><img src="Imagens/t9.png" class="responsive"></td>
+    </tr>
+  </tbody>
+</table>
+
+## Descrição
+Olá Pessoal!<br>
+Estou disponilizando gratuitamente para download este modelo de aplicação Web escrito e compilado em Delphi 10.3 Rio (Community Edition) c/ MySQL usando componentes de terceiros como Intraweb 15+FastReport 6.0 VCL, Bootstrap 4.5 com templates em HTML5 e CSS3 + Javascript baseados no modelo "Dashboard" (free).
 
 ## Doações
-Se desejar fazer uma contribuição como agradecimento pelo download, poderá fazer via transferência ou depósito bancário, minha chave PIX (celular) é 31-984107540 (CEF Ag.0815 Op.013 Conta 6214-9 - Ezequias Martins da Costa Barbosa)
+Como agradecimento, e apoio, se desejar fazer uma contribuição, poderá fazer via transferência ou depósito bancário, minha chave PIX (celular) é 31-984107540 (CEF Ag.0815 Op.013 Conta 6214-9 - Ezequias Martins da Costa Barbosa). Desde já agradeço e conto com a sua colaração!
 
 ## Recomendação
-Para melhor compreensão e aprendizado com este material, recomendo os cursos para Desenvolvimento Web c/ Delphi e MySQL do Hugo Vasconcelos, pela plataforma 
-de cursos online da Udemy:
+Para melhor compreensão, aprendizado e aproveitamento deste material, recomendo os cursos online do Prof. Hugo Vasconcelos na plataforma Udemy para Desenvolvimento Web c/ Delphi e MySQL:
 <br>
 1. Módulo I (básico inicial):<br>
 https://www.udemy.com/course/desenvolvimento-web-com-delphi-10/

@@ -36,7 +36,7 @@ https://www.udemy.com/course/controle-financeiro-web-delphi-10-e-mysql/
 Grato e atenciosamente,<br>
 <br>
 EZEQUIAS MARTINS<br>
-<p><a href="https://ezequiasmartins.blogspot.com/" target="_blank"><img src="assinatura.jpg"></a></p>
+<p><a href="https://ezequiasmartins.blogspot.com/" target="_blank"><img src="imagens/assinatura.jpg"></a></p>
 Telefone +55 31 98410-7540<br>
 https://ezequiasmartins.blogspot.com<br>
 e-mail: ezequiasmartins@gmail.com<br>

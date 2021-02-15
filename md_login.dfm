@@ -1,0 +1,74 @@
+object F_login: TF_login
+  Left = 0
+  Top = 0
+  Width = 107
+  Height = 182
+  RenderInvisibleControls = True
+  AllowPageAccess = True
+  ConnectionMode = cmAny
+  OnShow = IWAppFormShow
+  Background.Fixed = False
+  LayoutMgr = template_login
+  HandleTabs = False
+  LeftToRight = True
+  LockUntilLoaded = True
+  LockOnSubmit = True
+  ShowHint = True
+  XPTheme = True
+  DesignLeft = 2
+  DesignTop = 2
+  object bt_login: TIWButton
+    Left = 18
+    Top = 78
+    Width = 75
+    Height = 25
+    Css = 'btn btn-lg btn-primary btn-block btn-signin'
+    Caption = 'LOGIN'
+    Color = clBtnFace
+    Font.Color = clNone
+    Font.Size = 10
+    Font.Style = []
+    FriendlyName = 'bt_login'
+    TabOrder = 0
+    OnAsyncClick = bt_loginAsyncClick
+  end
+  object ed_usuario: TIWEdit
+    Left = 18
+    Top = 16
+    Width = 75
+    Height = 21
+    Hint = 'Senha'
+    OnHTMLTag = ed_usuarioHTMLTag
+    Css = 'form-control'
+    StyleRenderOptions.RenderBorder = False
+    Font.Color = clNone
+    Font.Size = 10
+    Font.Style = []
+    FriendlyName = 'ed_usuario'
+    SubmitOnAsyncEvent = True
+    TabOrder = 1
+  end
+  object ed_senha: TIWEdit
+    Left = 18
+    Top = 43
+    Width = 75
+    Height = 21
+    Hint = 'Senha'
+    OnHTMLTag = ed_senhaHTMLTag
+    Css = 'form-control'
+    StyleRenderOptions.RenderBorder = False
+    Font.Color = clNone
+    Font.Size = 10
+    Font.Style = []
+    FriendlyName = 'ed_email'
+    SubmitOnAsyncEvent = True
+    TabOrder = 2
+    PasswordPrompt = True
+  end
+  object template_login: TIWTemplateProcessorHTML
+    TagType = ttIntraWeb
+    RenderStyles = False
+    Left = 32
+    Top = 120
+  end
+end

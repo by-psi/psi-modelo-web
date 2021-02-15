@@ -5,13 +5,13 @@
   <tbody>
     <tr>
       <td><img src="imagens/t1.jpg" class="responsive"></td>
+      <td><img src="imagens/t2.jpg" class="responsive"></td>
       <td><img src="imagens/t3.jpg" class="responsive"></td>
-      <td><img src="imagens/t5.jpg" class="responsive"></td>
     </tr>
     <tr>
+      <td><img src="imagens/t4.jpg" class="responsive"></td>
+      <td><img src="imagens/t5.jpg" class="responsive"></td>
       <td><img src="imagens/t6.jpg" class="responsive"></td>
-      <td><img src="imagens/t7.jpg" class="responsive"></td>
-      <td><img src="imagens/t9.jpg" class="responsive"></td>
     </tr>
   </tbody>
 </table>
@@ -36,6 +36,7 @@ https://www.udemy.com/course/controle-financeiro-web-delphi-10-e-mysql/
 Grato e atenciosamente,<br>
 <br>
 EZEQUIAS MARTINS<br>
+<p><a href="https://ezequiasmartins.blogspot.com/" target="_blank"><img src="assinatura.jpg"></a></p>
 Telefone +55 31 98410-7540<br>
 https://ezequiasmartins.blogspot.com<br>
 e-mail: ezequiasmartins@gmail.com<br>

@@ -1,17 +1,17 @@
-<img src="psi-software.png" width="100"><br>
+<img src="imagens/psi-software.png" width="100"><br>
 ## PSI-MODELO WEB
 
 <table>
   <tbody>
     <tr>
-      <td><img src="Imagens/t1.png" class="responsive"></td>
-      <td><img src="Imagens/t3.png" class="responsive"></td>
-      <td><img src="Imagens/t5.png" class="responsive"></td>
+      <td><img src="imagens/t1.jpg" class="responsive"></td>
+      <td><img src="imagens/t3.jpg" class="responsive"></td>
+      <td><img src="imagens/t5.jpg" class="responsive"></td>
     </tr>
     <tr>
-      <td><img src="Imagens/t6.png" class="responsive"></td>
-      <td><img src="Imagens/t7.png" class="responsive"></td>
-      <td><img src="Imagens/t9.png" class="responsive"></td>
+      <td><img src="imagens/t6.jpg" class="responsive"></td>
+      <td><img src="imagens/t7.jpg" class="responsive"></td>
+      <td><img src="imagens/t9.jpg" class="responsive"></td>
     </tr>
   </tbody>
 </table>
